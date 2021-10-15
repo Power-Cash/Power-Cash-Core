@@ -28,8 +28,8 @@ Drag PowerCash-Qt to your applications folder, and then run PowerCash-Qt.
 
 * See the documentation at the [PowerCash Wiki](https://github.com/PowerCash-Project/PowerCash/wiki)
 for help and more information.
-* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [PowerCash Forum](http://forum.powercash.org/).
-* Join our Discord server [Discord Server](https://discord.powercash.org)
+* Ask for help on [BitcoinTalk](https://bitcointalk.org/#) or on the [PowerCash Forum](http://forum.powercash.one/).
+* Join our Discord server [Discord Server](https://discord.powercash.one)
 
 Building
 ---------------------
@@ -49,15 +49,15 @@ The PowerCash repo's [root README](/README.md) contains relevant information on 
 - [Multiwallet Qt Development](multiwallet-qt.md)
 - [Release Notes](release-notes.md)
 - [Release Process](release-process.md)
-- [Source Code Documentation (External Link)](https://www.fuzzbawls.pw/powercash/doxygen/)
+- [Source Code Documentation (External Link)](https://www.prch.one/powercash/#/)
 - [Translation Process](translation_process.md)
 - [Unit Tests](unit-tests.md)
 - [Unauthenticated REST Interface](REST-interface.md)
 - [Dnsseed Policy](dnsseed-policy.md)
 
 ### Resources
-* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [PowerCash](http://forum.powercash.org/) forum.
-* Join the [PowerCash Discord](https://discord.powercash.org).
+* Discuss on the [BitcoinTalk](https://bitcointalk.org/#) or the [PowerCash](http://forum.powercash.one/) forum.
+* Join the [PowerCash Discord](https://discord.powercash.one).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
