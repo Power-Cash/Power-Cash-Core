@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=PowerCash Core
+Comment=PowerCash P2P Cryptocurrency
+Comment[fr]=PowerCash, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=PowerCash, eşten eşe kriptografik sanal para birimi
+Exec=powercash-qt %u
+Terminal=false
+Type=Application
+Icon=powercash128
+MimeType=x-scheme-handler/powercash;
+Categories=Office;Finance;
+StartupWMClass=PowerCash-qt

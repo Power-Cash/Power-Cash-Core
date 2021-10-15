@@ -1,0 +1,6 @@
+usr/local/bin/powercash-qt usr/bin
+share/pixmaps/powercash32.xpm usr/share/pixmaps
+share/pixmaps/powercash16.xpm usr/share/pixmaps
+share/pixmaps/powercash128.png usr/share/pixmaps
+debian/powercash-qt.desktop usr/share/applications
+debian/powercash-qt.protocol usr/share/kde4/services/

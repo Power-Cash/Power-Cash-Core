@@ -1,0 +1,3 @@
+usr/local/bin/powercashd usr/bin
+usr/local/bin/powercash-cli usr/bin
+debian/examples/powercash.conf etc/powercash

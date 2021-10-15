@@ -1,0 +1,8 @@
+/usr/bin/powercash-cli		--	gen_context(system_u:object_r:powercash_exec_t,s0)
+/usr/sbin/powercashd		--	gen_context(system_u:object_r:powercash_exec_t,s0)
+/usr/lib(64)?/powercash/powercashd		--	gen_context(system_u:object_r:powercash_exec_t,s0)
+
+/etc/powercash(/.*)?		gen_context(system_u:object_r:powercash_conf_t,s0)
+/var/lib/powercash(/.*)?		gen_context(system_u:object_r:powercash_var_lib_t,s0)
+
+(/var)?/run/powercashd(/.*)?   gen_context(system_u:object_r:powercash_var_run_t,s0)
